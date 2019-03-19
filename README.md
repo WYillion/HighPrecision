@@ -1,2 +1,2 @@
 # HighPrecision
-High pecision interger support for stduy.
+High pecision integer support for study.
